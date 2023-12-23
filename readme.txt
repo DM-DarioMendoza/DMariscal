@@ -1,8 +1,4 @@
-Thank you for using our template!
+D'Mariscal | Tienda de vitaminas y suplementos en México
+primera versión 22-12-2023 || 8:50 pm
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Liga del proyecto https://dm-dariomendoza.github.io/DMariscal/
